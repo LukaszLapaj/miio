@@ -25,11 +25,11 @@
   "dependencies": {
     "abstract-things": "^0.9.0",
     "appdirectory": "^0.1.0",
-    "chalk": "^2.4.2",
+    "chalk": "^3.0.0",
     "debug": "^4.1.1",
     "deep-equal": "^1.1.0",
     "mkdirp": "^0.5.1",
-    "tinkerhub-discovery": "^0.5.0",
+    "tinkerhub-discovery": "^0.4.0",
     "yargs": "^14.2.0"
   },
   "devDependencies": {
